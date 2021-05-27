@@ -2,9 +2,9 @@
 
 Read the Word of God from your terminal
 
-Forked originally from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Book of Mormon added.
 
-Forked again from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Book of Mormon added.
+I may add the rest of the standard works of The Church of Jesus Christ of Latter-day Saints eventually.
 
 ## Usage
 
