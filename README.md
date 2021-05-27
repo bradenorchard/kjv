@@ -1,4 +1,4 @@
-# kjv
+# kjv-lds
 
 Read the Word of God from your terminal
 
