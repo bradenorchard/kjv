@@ -39,7 +39,7 @@ Forked again from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/L
 
 kjv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
+    git clone https://github.com/bradenorchard/kjv.git
     cd kjv
     sudo make install
 
