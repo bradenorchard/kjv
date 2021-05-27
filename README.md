@@ -39,7 +39,7 @@ I may add the rest of the standard works of The Church of Jesus Christ of Latter
 
 kjv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/bradenorchard/kjv.git
+    git clone https://github.com/bradenorchard/kjv-lds.git
     cd kjv
     sudo make install
 
