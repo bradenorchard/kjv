@@ -1,5 +1,7 @@
 # kjv-lds
 
+![The First Vision](https://bradenorchard.com/pix/thefirstvision.jpg)
+
 Read the Word of God from your terminal
 
 Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Book of Mormon added
