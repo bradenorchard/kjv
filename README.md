@@ -4,7 +4,10 @@ Read the Word of God from your terminal
 
 Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Book of Mormon added
 
-I may add the rest of the standard works of The Church of Jesus Christ of Latter-day Saints one day
+I ~~may~~ will add the rest of the standard works of The Church of Jesus Christ of Latter-day Saints one day
+
+  * Currently working on formatting the Doctrine and Covenants in my spare time
+  * Pearl of Great Price will be next
 
 ## Usage
 
