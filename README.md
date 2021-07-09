@@ -2,9 +2,10 @@
 
 ![The First Vision](https://bradenorchard.com/pix/thefirstvision.jpg)
 
-Read the Word of God from your terminal
+Read the Word of God from your terminal. This fork of KJV includes the standard works of The Church of Jesus Christ of Latter-day Saints.
 
-Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Book of Mormon added
+Original Project: [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git)
+Apocrapha done by: [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git)
 
 To do:
 
